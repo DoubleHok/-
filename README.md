@@ -1,4 +1,5 @@
 ### 数据结构与算法（Python）  
+* 0.[B站视频](https://www.bilibili.com/video/BV1e4411s7Kw?p=1)
 * 1.引入概念  
   * 1.1 第一次尝试   
   * 1.2 算法的提出  
